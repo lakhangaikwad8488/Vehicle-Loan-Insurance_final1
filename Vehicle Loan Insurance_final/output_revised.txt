@@ -1,0 +1,3 @@
+
+testTakeInsurance=true
+testIssueLoan=true
